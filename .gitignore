@@ -1,0 +1,3 @@
+influxdb/
+.env.influx
+__pycache__/
